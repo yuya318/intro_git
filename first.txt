@@ -5,3 +5,4 @@ Gitを練習しよう
 ・dit add
 ・git commit
 ・git rm
+・git status
