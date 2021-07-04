@@ -4,4 +4,4 @@ Git‚ğ—ûK‚µ‚æ‚¤
 
 Edit add
 Egit commit
-
+Egit rm
